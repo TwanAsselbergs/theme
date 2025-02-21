@@ -1,7 +1,17 @@
 {
   "name": "theme",
   "displayName": "Theme",
-  "description": "",
+  "description": "Theme",
+  "publisher": "twan",
+  "galleryBanner": {
+    "color": "#1c1c1c",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "theme",
+    "twan"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
