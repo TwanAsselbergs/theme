@@ -1,16 +1,33 @@
-# theme README
+# Theme
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Table of Contents
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+  - [Overview](#overview)
+  - [Author(s)](#authors)
+  - [License](#license)
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Overview
 
-**Enjoy!**
+Theme is my custom Visual Studio Code theme. It is an extended version of the One Dark Pro theme by Binaryify. I made it simply because I had certain changes that I would have liked to make, but they were not possible in their extension on the marketplace.
+
+1. Styling (`/themes`)
+
+   - Contains all the JSON data used to style the colors of the editor.
+  
+  1. Images (`/images`)
+
+   - The images folder serves as the folder that is used by the Visual Studio Code marketplace.
+
+
+## Author(s)
+
+- **Twan Asselbergs** - [TwanAsselbergs](https://github.com/TwanAsselbergs)
+
+
+## License
+
+This project is licensed under the [MIT](LICENSE.md)
+License - see the [LICENSE.md](LICENSE.md) file for
+details
