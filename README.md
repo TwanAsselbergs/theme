@@ -10,7 +10,7 @@
 
 ## Overview
 
-Theme is my custom Visual Studio Code theme. It is an extended version of the One Dark Pro theme by Binaryify. I made it simply because I had certain changes that I would have liked to make, but they were not possible in their extension on the marketplace.
+Theme is my custom Visual Studio Code theme. It is an extended version of the One Dark Pro theme by Binaryify. I made it simply because I had certain style changes that I would have liked to make, but they were not possible in their extension on the marketplace.
 
 1. Styling (`/themes`)
 
