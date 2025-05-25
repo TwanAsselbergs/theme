@@ -28,6 +28,4 @@ Theme is my custom Visual Studio Code theme. It is an extended version of the On
 
 ## License
 
-This project is licensed under the [MIT](LICENSE.md)
-License - see the [LICENSE.md](LICENSE.md) file for
-details
+This project is licensed under the [MIT](LICENSE) License - see the [LICENSE](LICENSE) file for details.
